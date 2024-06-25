@@ -1,2 +1,2 @@
 # Personal
-Personal page and portafolio.
+Personal website and portafolio about projects.
